@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot-asyn11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-config2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-data5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo-zookeeper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-helloworld1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mail12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-schedule13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-security7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-swagger10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-project4/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+
+server:
+  port: 8080
+spring:
+  profiles:
+    active: test
+debug: true  # 可以通过debug: true来查看，哪些自动配置类生效，哪些没有生效！
+---
+server:
+  port: 8005
+spring:
+  profiles: dev
+---
+server:
+  port: 8006
+spring:
+  profiles: test

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+</head>
+<body>
+[[ #{login.tip} ]]
+<form th:action="@{/user/login}" method="post">
+    <span style="color:red;" th:if="${not #strings.isEmpty(msg)}">[[ ${msg}]]</span><br/>
+    <input id="username" name="username" th:placeholder="#{login.username}"/><br/>
+    <input id="password" name="password" th:placeholder="#{login.password}"/><br/>
+    <input type="submit" th:value="#{login.btn}">
+</form>
+<span>[[ #{login.remember} ]]</span>
+</body>
+<a th:href="@{/tologin(lang='zh_CN')}">中文</a>
+<a th:href="@{/tologin(lang='en_US')}">英文</a>
+</html>

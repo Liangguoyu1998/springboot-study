@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>toUpdate</title>
+</head>
+<body>
+<form th:action="@{/employee/update}" method="get">
+         <input type="text" th:value="${employee.id}" name="id" hidden><br/>
+    姓名：<input type="text" th:value="${employee.lastName}" name="lastName"><br/>
+    邮箱：<input type="text" th:value="${employee.email}" name="email"><br/>
+    性别：<input type="text" th:value="${employee.gender}" name="gender"><span>0：女&nbsp;&nbsp;1：男</span><br/>
+    部门：<input type="text" th:value="${employee.department.departmentName}" name="department"><br/>
+    生日：<input type="text" th:value="${#dates.format(employee.birth,'yyyy/MM/dd')}" name="birth"><br/>
+    <input type="submit" value="修改">
+</form>
+</body>
+</html>

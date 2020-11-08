@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>queryAll</title>
+</head>
+<body>
+<table border="1px">
+    <tr>
+        <th>编号</th>
+        <th>名字</th>
+        <th>邮箱</th>
+        <th>性别</th>
+        <th>部门</th>
+        <th>生日</th>
+        <th>操作</th>
+    </tr>
+    <tr th:each="employee:${employees}">
+        <td>[[ ${employee.id} ]]</td>
+        <td>[[ ${employee.lastName} ]]</td>
+        <td>[[ ${employee.email} ]]</td>
+        <td th:text="${employee.gender==0?'女':'男'}"></td>
+        <td>[[ ${employee.department.departmentName} ]]</td>
+        <td th:text="${#dates.format(employee.birth,'yyyy/MM/dd')}"></td>
+        <td>
+            <a th:href="@{/employee/toUpdate/}+${employee.id}">更新</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a th:href="@{/employee/delete/}+${employee.id}">删除</a>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

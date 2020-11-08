@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724211eb-de46-464d-9550-04e32cdeade8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jiuRPu3ognsxlHG3tTauH0A1vs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springmvc-project4/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32771084" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\项目学习\springboot-study\springmvc-project4\src\main\resources" />
+      <recent name="E:\项目学习\springboot-study\springmvc-project4\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liang" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\项目学习\springboot-study\springboot-swagger10\src\main\resources" />
+      <recent name="E:\项目学习\springboot-study\springboot-security7\src\main\resources\templates\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringbootRedis14ApplicationTests.test">
+    <configuration name="SpringbootMail12ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mail12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liang" />
+      <option name="MAIN_CLASS_NAME" value="com.liang.SpringbootMail12ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMail12ApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mail12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liang" />
+      <option name="MAIN_CLASS_NAME" value="com.liang.SpringbootMail12ApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedis14ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-redis14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liang" />
+      <option name="MAIN_CLASS_NAME" value="com.liang.SpringbootRedis14ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedis14ApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-redis14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liang" />
+      <option name="MAIN_CLASS_NAME" value="com.liang.SpringbootRedis14ApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.ProviderServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAsyn11Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-asyn11" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootAsyn11Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConfig2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-config2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootConfig2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootData5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-data5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootData5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboZookeeper15Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo_zookeeper15" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootDubboZookeeper15Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboZookeeperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootDubboZookeeperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootHelloworld1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-helloworld1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootHelloworld1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMail12Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mail12" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootMail12Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatis6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootMybatis6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedis14Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-redis14" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootRedis14Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSchedule13Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-schedule13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootSchedule13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSchedule13Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-schedule13" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.springbootschedule13.SpringbootSchedule13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSecurity7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-security7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootSecurity7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootShiro8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-shiro8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootShiro8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootShiro9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-shiro9" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootShiro9Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSwagger10Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-swagger10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootSwagger10Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWeb3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-web3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringbootWeb3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringmvcProject4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springmvc-project4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liang.SpringmvcProject4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootRedis14ApplicationTests.test" />
+        <item itemvalue="JUnit.SpringbootRedis14ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringbootMail12ApplicationTests.test" />
+        <item itemvalue="Spring Boot.SpringbootSchedule13Application (1)" />
+        <item itemvalue="JUnit.SpringbootMail12ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",GROUP_BY_PREFIXES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724211eb-de46-464d-9550-04e32cdeade8" name="Default Changelist" comment="" />
+      <created>1604299224967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604299224967</updated>
+      <workItem from="1604299228671" duration="40578000" />
+      <workItem from="1604393600535" duration="16074000" />
+      <workItem from="1604469074691" duration="932000" />
+      <workItem from="1604470054351" duration="12969000" />
+      <workItem from="1604554303150" duration="5529000" />
+      <workItem from="1604562045271" duration="551000" />
+      <workItem from="1604562657317" duration="11927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="265" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604469975807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="870" y="265" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604469975807" />
+    <state x="973" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1604475531277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="973" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604475531277" />
+    <state x="391" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1604318530549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1604318530549" />
+    <state x="357" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604494727875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1604494727875" />
+    <state x="511" y="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1604494731259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1604494731259" />
+    <state width="766" height="178" key="GridCell.Tab.0.bottom" timestamp="1604584296116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="766" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604584296116" />
+    <state width="766" height="178" key="GridCell.Tab.0.center" timestamp="1604584296115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="766" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604584296115" />
+    <state width="766" height="178" key="GridCell.Tab.0.left" timestamp="1604584296115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="766" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604584296115" />
+    <state width="766" height="178" key="GridCell.Tab.0.right" timestamp="1604584296116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="766" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604584296116" />
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom" timestamp="1604576052127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604576052127" />
+    <state width="1493" height="250" key="GridCell.Tab.1.center" timestamp="1604576052127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604576052127" />
+    <state width="1493" height="250" key="GridCell.Tab.1.left" timestamp="1604576052127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604576052127" />
+    <state width="1493" height="250" key="GridCell.Tab.1.right" timestamp="1604576052127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604576052127" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1604470271273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1604470271273" />
+    <state x="128" y="91" width="992" height="707" key="SettingsEditor" timestamp="1604584232271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="128" y="91" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604584232271" />
+    <state x="338" y="182" width="1180" height="558" key="new project wizard" timestamp="1604584293800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="182" width="1180" height="558" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604584293800" />
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1604578683304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604578683304" />
+  </component>
+</project>
